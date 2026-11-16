@@ -17,7 +17,7 @@ Sou estudante de Engenharia de Software, com foco em arquitetura de software, de
 - **Formação:** HarvardX CS50, Codecademy Computer Science, W3Schools Java Professional, AWS Skill Builder, Microsoft Azure, Red Hat, Coursera, Google, HackerRank e Fundação Bradesco.
 - **Meta:** Transformar ideias em projetos.
 
-## Tech Stack & Tools
+## Technologies and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs,java,cpp,js,mysql,postgres,mongodb,aws,azure,git,github" alt="C#, Java, C++, JavaScript, MySQL, PostgreSQL, MongoDB, AWS, Azure, Git, GitHub" />
